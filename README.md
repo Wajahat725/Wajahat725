@@ -1,30 +1,30 @@
 <!-- ====================== Banner ====================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Wajahat%20Ali%20Khan&fontAlignY=40&fontSize=60&desc=Software%20Developer%20|%20AI%20Enthusiast%20|%20Flutter%20%26%20Python&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Wajahat%20Ali%20Khan&fontAlignY=40&fontSize=60&desc=Computer%20Science%20Student%20|%20AI%20Enthusiast%20|%20Flutter%20%26%20Python&descAlignY=60" />
 </p>
 
 <!-- ====================== Typing Animation ====================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=F74387&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Wajahat+Ali+Khan;Software+Developer;Flutter+%7C+Python+%7C+Java+%7C+C%2B%2B;AI+Enthusiast+%26+Tech+Learner;Welcome+to+my+GitHub+Profile!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=F74387&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Wajahat+Ali+Khan;Computer+Science+Student;Flutter+%7C+Python+%7C+Java+%7C+C%2B%2B;AI+Enthusiast+%26+Tech+Learner;Welcome+to+my+GitHub+Profile!"/>
 </p>
 
 <!-- ====================== Badges ====================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Developer-Passionate-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focused-Creative%20Coder-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Loves-Learning-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Student-Passionate-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learner-Curious-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Exploring-Tech-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub-Active-red?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
 # 💫 About Me
-🔭 **Currently working on:** Flutter Platform Channels, Python GUI & Backend, Java GUI  
-🤝 **Looking to collaborate on:** Flutter apps, Python projects, Open-source contributions  
-🧠 **Need help with:** Advanced native integrations (Swift/Kotlin)  
+🔭 **Currently learning:** Flutter Platform Channels, Python GUI & Backend, Java GUI  
+🤝 **Looking to collaborate on:** Student projects, Flutter apps, Python automation, Open-source contributions  
+🧠 **Need guidance with:** Advanced native integrations (Swift/Kotlin)  
 🌱 **Learning:** Linux, Docker, Full-stack Java, Python, Flutter  
-💬 **Ask me about:** Flutter, Python, Java, C++, Algorithms  
-⚡ **Fun fact:** Cricket helps me focus while solving algorithm problems!  
+💬 **Ask me about:** Flutter, Python, Java, C++, Algorithms, Problem-Solving  
+⚡ **Fun fact:** Cricket helps me focus while coding and learning algorithms!  
 
 ---
 
