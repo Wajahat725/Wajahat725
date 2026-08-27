@@ -39,10 +39,39 @@
 ---
 
 # 💻 Tech Stack
+
+### 👨‍💻 Programming Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,dart,java,python,mysql,mongodb,flutter,figma,git,github,powershell,linux,vscode,androidstudio,postman,idea,regex&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,dart,java,python,js,mysql&theme=light"/>
 </p>
 
+### 🌐 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express&theme=light"/>
+</p>
+
+### 📱 Mobile Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=light"/>
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle&theme=light"/>
+</p>
+
+### 🛠️ Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,powershell,vscode,figma,postman,docker&theme=light"/>
+</p>
+
+### 💻 Systems & Networking
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux&theme=light"/>
+</p>
+
+**Also experienced with:**  
+`VSPE` • `Hercules` • `TCP/IP` • `UDP` • `Serial Communication` • `Socket Programming` • `Platform Channels` • `MIPS` • `RISC-V`
 ---
 
 # 🚀 Featured Projects
