@@ -5,7 +5,7 @@
 
 <!-- ====================== TYPING INTRO ====================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Wajahat+%F0%9F%91%8B;BS+Computer+Science+%40+Riphah+University;Flutter+%7C+Python+%7C+AI+%7C+Full+Stack;Turning+Ideas+Into+Shipped+Products." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Wajahat+%F0%9F%91%8B;BS+Computer+Science+%40+Riphah+University;Flutter+%7C+Python+%7C+AI+%7C+Full+Stack;Turning+Ideas+Into+Shipped+Products." />
 </div>
 
 <br/>
@@ -58,7 +58,7 @@ A clearer roadmap. A stronger engineer.
 
 <!-- ====================== ABOUT TERMINAL ====================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=10&pause=100000&color=FF0055&center=true&vCenter=true&width=300&lines=%3E_+whoami" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=10&pause=100000&color=FF0055&center=true&vCenter=true&width=300&lines=%3E_+whoami" />
 </div>
 
 ```yaml
@@ -78,7 +78,7 @@ fun_fact: "A perfect cover drive in cricket is as satisfying as zero compile err
 
 <!-- ====================== TECH STACK ====================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=10&pause=100000&color=00E5FF&center=true&vCenter=true&width=400&lines=%3E_+tech_stack.json" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=10&pause=100000&color=00E5FF&center=true&vCenter=true&width=400&lines=%3E_+tech_stack.json" />
   <br/><br/>
 
   <b>Languages & Core</b><br/>
@@ -101,22 +101,22 @@ fun_fact: "A perfect cover drive in cricket is as satisfying as zero compile err
 
 <!-- ====================== FEATURED PROJECTS ====================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=10&pause=100000&color=FF0055&center=true&vCenter=true&width=400&lines=%3E_+.%2Fexecute_projects.sh" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=10&pause=100000&color=FF0055&center=true&vCenter=true&width=400&lines=%3E_+.%2Fexecute_projects.sh" />
 </div>
 
 <div align="center">
   <a href="https://github.com/Wajahat725/Flutter-Platform-Channel-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wajahat725&repo=Flutter-Platform-Channel-App&theme=radical&bg_color=0a0a0a&hide_border=true&title_color=00E5FF&icon_color=FF0055&text_color=ffffff" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wajahat725&repo=Flutter-Platform-Channel-App&cache_seconds=86400&theme=radical&bg_color=0a0a0a&hide_border=true&title_color=00E5FF&icon_color=FF0055&text_color=ffffff" width="48%" />
   </a>
   <a href="https://github.com/Wajahat725/Harmony-Search-Algorithm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wajahat725&repo=Harmony-Search-Algorithm&theme=radical&bg_color=0a0a0a&hide_border=true&title_color=00E5FF&icon_color=FF0055&text_color=ffffff" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wajahat725&repo=Harmony-Search-Algorithm&cache_seconds=86400&theme=radical&bg_color=0a0a0a&hide_border=true&title_color=00E5FF&icon_color=FF0055&text_color=ffffff" width="48%" />
   </a>
   <br/><br/>
   <a href="https://github.com/Wajahat725/Polyembryony-PPT-Automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wajahat725&repo=Polyembryony-PPT-Automation&theme=radical&bg_color=0a0a0a&hide_border=true&title_color=00E5FF&icon_color=FF0055&text_color=ffffff" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wajahat725&repo=Polyembryony-PPT-Automation&cache_seconds=86400&theme=radical&bg_color=0a0a0a&hide_border=true&title_color=00E5FF&icon_color=FF0055&text_color=ffffff" width="48%" />
   </a>
   <a href="https://github.com/Wajahat725/RISC-V-Architecture-Presentation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wajahat725&repo=RISC-V-Architecture-Presentation&theme=radical&bg_color=0a0a0a&hide_border=true&title_color=00E5FF&icon_color=FF0055&text_color=ffffff" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wajahat725&repo=RISC-V-Architecture-Presentation&cache_seconds=86400&theme=radical&bg_color=0a0a0a&hide_border=true&title_color=00E5FF&icon_color=FF0055&text_color=ffffff" width="48%" />
   </a>
 </div>
 
@@ -142,7 +142,7 @@ Co-developed app delivering daily bite-sized lessons to help users learn consist
 
 <!-- ====================== CERTIFICATIONS ====================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=10&pause=100000&color=00E5FF&center=true&vCenter=true&width=400&lines=%3E_+certifications.list()" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=10&pause=100000&color=00E5FF&center=true&vCenter=true&width=400&lines=%3E_+certifications.list()" />
 </div>
 
 - 🎓 Operating Systems Basics — Coursera
@@ -155,17 +155,17 @@ Co-developed app delivering daily bite-sized lessons to help users learn consist
 
 <!-- ====================== GITHUB STATS ====================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=10&pause=100000&color=FF0055&center=true&vCenter=true&width=400&lines=%3E_+git_status_--stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=10&pause=100000&color=FF0055&center=true&vCenter=true&width=400&lines=%3E_+git_status_--stats" />
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Wajahat725&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00E5FF&text_color=ffffff&icon_color=FF0055" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wajahat725&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00E5FF&text_color=ffffff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wajahat725&cache_seconds=86400&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00E5FF&text_color=ffffff&icon_color=FF0055" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wajahat725&cache_seconds=86400&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00E5FF&text_color=ffffff" height="165" />
 
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wajahat725&theme=radical&background=0a0a0a&hide_border=true&stroke=00E5FF&ring=FF0055&fire=FF0055&currStreakNum=ffffff" width="70%" />
 
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wajahat725&theme=react-dark&bg_color=0a0a0a&color=00E5FF&line=FF0055&point=ffffff&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wajahat725&custom_title=Contribution%20Graph&theme=react-dark&bg_color=0a0a0a&color=00E5FF&line=FF0055&point=ffffff&hide_border=true" width="90%" />
 </div>
 
 <br/>
@@ -181,7 +181,7 @@ Co-developed app delivering daily bite-sized lessons to help users learn consist
 
 <!-- ====================== CONNECT ====================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=10&pause=100000&color=FF0055&center=true&vCenter=true&width=400&lines=%3E_+connect.init()" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=10&pause=100000&color=FF0055&center=true&vCenter=true&width=400&lines=%3E_+connect.init()" />
   <br/><br/>
 
   <a href="https://linkedin.com/in/wajahat-ali-khan100"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
