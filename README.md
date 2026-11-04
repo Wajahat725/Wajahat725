@@ -1,128 +1,122 @@
-<!-- ====================== Banner ====================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Wajahat%20Ali%20Khan&fontAlignY=40&fontSize=60&desc=Computer%20Science%20Student%20|%20AI%20Enthusiast%20|%20Flutter%20%26%20Python&descAlignY=60" />
-</p>
-
-<!-- ====================== Typing Animation ====================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=F74387&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Wajahat+Ali+Khan;Computer+Science+Student;Flutter+%7C+Python+%7C+Java+%7C+C%2B%2B;AI+Enthusiast+%26+Tech+Learner;Welcome+to+my+GitHub+Profile!"/>
-</p>
-
-<!-- ====================== Badges ====================== -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Student-Passionate-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learner-Curious-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Exploring-Tech-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-Active-red?style=for-the-badge&logo=github" />
-</p>
-
----
-
-# 💫 About Me
-🔭 **Currently learning:** Flutter Platform Channels, Python GUI & Backend, Java GUI  
-🤝 **Looking to collaborate on:** Student projects, Flutter apps, Python automation, Open-source contributions  
-🧠 **Need guidance with:** Advanced native integrations (Swift/Kotlin)  
-🌱 **Learning:** Linux, Docker, Full-stack Java, Python, Flutter  
-💬 **Ask me about:** Flutter, Python, Java, C++, Algorithms, Problem-Solving  
-⚡ **Fun fact:** Cricket helps me focus while coding and learning algorithms!  
-
----
-
-# 🌐 Connect with Me
-<p align="center">
-  <a href="https://facebook.com/AliWajahat"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://instagram.com/wajahatali.khan.90281"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://linkedin.com/in/WajahatAliKhan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:wajahat.alikhan725@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
-
-# 💻 Tech Stack
-
-### 👨‍💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,dart,java,python,js,mysql&theme=light"/>
-</p>
-
-### 🌐 Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express&theme=light"/>
-</p>
-
-### 📱 Mobile Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=light"/>
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle&theme=light"/>
-</p>
-
-### 🛠️ Tools & Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,powershell,vscode,figma,postman,docker&theme=light"/>
-</p>
-
-### 💻 Systems & Networking
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux&theme=light"/>
-</p>
-
-**Also experienced with:**  
-`VSPE` • `Hercules` • `TCP/IP` • `UDP` • `Serial Communication` • `Socket Programming` • `Platform Channels` • `MIPS` • `RISC-V`
----
-
-# 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/Wajahat725/Flutter-Platform-Channel-App">
-    <img src="https://img.shields.io/badge/Flutter%20Platform%20Channel-App-blueviolet?style=for-the-badge&logo=flutter" alt="Flutter App" />
-  </a>
-  <a href="https://github.com/Wajahat725/Harmony-Search-Algorithm">
-    <img src="https://img.shields.io/badge/Harmony%20Search%20Algorithm-orange?style=for-the-badge&logo=python" alt="Harmony Search" />
-  </a>
-  <a href="https://github.com/Wajahat725/Polyembryony-PPT-Automation">
-    <img src="https://img.shields.io/badge/Polyembryony%20PPT%20Automation-green?style=for-the-badge&logo=python" alt="Polyembryony PPT" />
-  </a>
-  <a href="https://github.com/Wajahat725/RISC-V-Architecture-Presentation">
-    <img src="https://img.shields.io/badge/RISC-V%20Architecture%20Presentation-red?style=for-the-badge&logo=markdown" alt="RISC-V" />
-  </a>
-</p>
-
----
-
-# 📊 GitHub Stats
+<!-- ====================== CINEMATIC HEADER BANNER ====================== -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wajahat725&theme=radical&show_icons=true&hide_border=false&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wajahat725&layout=compact&theme=radical&hide_border=false" height="165"/>
-  <br><br>
-  <img src="https://nirzak-streak-stats.vercel.app?user=Wajahat725&theme=radical&hide_border=false" height="200"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0a0a0a,100:1a1a1a&text=WAJAHAT%20ALI%20KHAN&fontSize=70&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=CS%20STUDENT%20%E2%80%A2%20AI%20ENTHUSIAST%20%E2%80%A2%20FLUTTER%20DEV&descAlignY=65&descSize=20&descColor=00e5ff" />
 </div>
 
----
+<!-- ====================== GLOWING TERMINAL INTRO ====================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World%22);;Initializing+Flutter+%26+Python+Environment...;Building+Scalable+Apps+%26+AI+Models...;Always+Learning%2C+Always+Building." alt="Typing SVG" />
+</div>
 
-# 🏆 GitHub Trophies
+<br/>
+
+<!-- ====================== NEO-BRUTALIST BADGES ====================== -->
+<div align="center">
+  <img src="https://img.shields.io/badge/STATUS-LEARNING-00e5ff?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/FOCUS-AI_%26_FLUTTER-ff0055?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/LOCATION-PAKISTAN-7000ff?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0a0a0a" />
+</div>
+
+<br/>
+
+<!-- ====================== ABOUT ME (CINEMATIC BOX) ====================== -->
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> `> whoami`
+
+<table>
+  <tr>
+    <td width="60%">
+      <br>
+      <p>🔭 <b>Currently Exploring:</b> Advanced Flutter Channels & AI Integrations</p>
+      <p>🌱 <b>Deep Diving Into:</b> Linux, Docker & Full-stack Java</p>
+      <p>🤝 <b>Open To:</b> Collaborating on Open-Source & Innovative Student Projects</p>
+      <p>💬 <b>Ask Me About:</b> Flutter, Python, Java, C++, Algorithms & Socket Programming</p>
+      <p>⚡ <b>Fun Fact:</b> A perfect cover drive in cricket is as satisfying as compiling code with zero errors!</p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Wajahat725&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00e5ff&text_color=ffffff&icon_color=ff0055" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<!-- ====================== TECH ARSENAL ====================== -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> `> tech_stack.json`
+
+<div align="center">
+
+### `[ Languages & Core ]`
+<img src="https://skillicons.dev/icons?i=cpp,c,dart,java,python,js,mysql&theme=dark" />
+
+### `[ Web & Mobile ]`
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,flutter,androidstudio&theme=dark" />
+
+### `[ Databases & Tools ]`
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,git,github,linux,powershell,vscode,figma,postman,docker&theme=dark" />
+
+</div>
+
+<br/>
+
+<!-- ====================== NETWORKING SKILLS ====================== -->
+<div align="center">
+  <b>🌐 Networking & Systems Expertise:</b><br>
+  <code>VSPE</code> • <code>Hercules</code> • <code>TCP/IP</code> • <code>UDP</code> • <code>Serial Comm</code> • <code>Socket Programming</code> • <code>Platform Channels</code> • <code>MIPS</code> • <code>RISC-V</code>
+</div>
+
+<br/>
+
+<!-- ====================== FEATURED PROJECTS ====================== -->
+## <img src="https://media.giphy.com/media/W5g9B8n9c0xS8/giphy.gif" width="30"> `> ./execute_projects.sh`
+
+<div align="center">
+  <a href="https://github.com/Wajahat725/Flutter-Platform-Channel-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wajahat725&repo=Flutter-Platform-Channel-App&theme=radical&bg_color=0a0a0a&hide_border=false&title_color=00e5ff&icon_color=ff0055" width="48%" />
+  </a>
+  <a href="https://github.com/Wajahat725/Harmony-Search-Algorithm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wajahat725&repo=Harmony-Search-Algorithm&theme=radical&bg_color=0a0a0a&hide_border=false&title_color=00e5ff&icon_color=ff0055" width="48%" />
+  </a>
+  <br/>
+  <a href="https://github.com/Wajahat725/Polyembryony-PPT-Automation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wajahat725&repo=Polyembryony-PPT-Automation&theme=radical&bg_color=0a0a0a&hide_border=false&title_color=00e5ff&icon_color=ff0055" width="48%" />
+  </a>
+  <a href="https://github.com/Wajahat725/RISC-V-Architecture-Presentation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wajahat725&repo=RISC-V-Architecture-Presentation&theme=radical&bg_color=0a0a0a&hide_border=false&title_color=00e5ff&icon_color=ff0055" width="48%" />
+  </a>
+</div>
+
+<br/>
+
+<!-- ====================== GITHUB METRICS ====================== -->
+## <img src="https://media.giphy.com/media/Qv2gC0gW8cW1q/giphy.gif" width="30"> `> git status --stats`
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wajahat725&theme=radical&background=0a0a0a&hide_border=true&stroke=00e5ff&ring=ff0055&fire=ff0055&currStreakNum=ffffff" width="70%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Wajahat725&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</div>
+
+<br/>
+
+<!-- ====================== CONNECT WITH ME ====================== -->
+## <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="30"> `> connect.init()`
+
+<div align="center">
+  <a href="https://linkedin.com/in/WajahatAliKhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" /></a>
+  <a href="mailto:wajahat.alikhan725@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" /></a>
+  <a href="https://instagram.com/wajahatali.khan.90281"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" /></a>
+  <a href="https://facebook.com/AliWajahat"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0a0a0a" /></a>
+</div>
+
+<br/>
+
+<!-- ====================== FOOTER ====================== -->
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Wajahat725&label=PROFILE%20VIEWS&color=1&icon=5&pretty=true" />
+</div>
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Wajahat725&theme=dracula&no-bg=true&margin-w=10" />
-</p>
-
----
-
-# 🔝 Top Contributed Repo
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Wajahat725&limit=5&theme=radical&combine_all_yearly_contributions=true">
-</p>
-
----
-
-# 🎨 Contribution Graph Art
-<p align="center">
-  <img src="https://github.com/Wajahat725.png?size=250" alt="Contribution Graph" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Wajahat725&label=Profile%20Views&color=1&icon=5&pretty=true" />
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
 </p>
