@@ -34,9 +34,9 @@
 | 01 IDEATE | 02 ENGINEER | 03 SHIP |
 |:---:|:---:|:---:|
 
-- 📱 **Mobile & Web Dev** — Flutter, Dart, React/HTML/Tailwind/JS
-- 🤖 **AI & Automation** — Python scripting, API integration, regex-based extraction
-- 🧑‍🏫 **Community Mentorship** — Teaching Assistant at RIPHAH International University Islamabad
+- 📱 **Mobile & Web Dev** - Flutter, Dart, React/HTML/Tailwind/JS
+- 🤖 **AI & Automation** - Python scripting, API integration, regex-based extraction
+- 🧑‍🏫 **Community Mentorship** - Teaching Assistant at RIPHAH International University Islamabad
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -98,10 +98,7 @@ fun_fact: "A perfect cover drive in cricket is as satisfying as zero compile err
 
 | Project | Stack | Links |
 |---|---|---|
-| **Flutter-Platform-Channel-App** | Flutter · Dart | ![Stars](https://img.shields.io/github/stars/Wajahat725/Flutter-Platform-Channel-App?style=flat-square&color=00E5FF&labelColor=0a0a0a) [🔗 Repo](https://github.com/Wajahat725/Flutter-Platform-Channel-App) |
-| **Harmony-Search-Algorithm** | Python | ![Stars](https://img.shields.io/github/stars/Wajahat725/Harmony-Search-Algorithm?style=flat-square&color=00E5FF&labelColor=0a0a0a) [🔗 Repo](https://github.com/Wajahat725/Harmony-Search-Algorithm) |
-| **Polyembryony-PPT-Automation** | Python | ![Stars](https://img.shields.io/github/stars/Wajahat725/Polyembryony-PPT-Automation?style=flat-square&color=00E5FF&labelColor=0a0a0a) [🔗 Repo](https://github.com/Wajahat725/Polyembryony-PPT-Automation) |
-| **RISC-V-Architecture-Presentation** | — | ![Stars](https://img.shields.io/github/stars/Wajahat725/RISC-V-Architecture-Presentation?style=flat-square&color=00E5FF&labelColor=0a0a0a) [🔗 Repo](https://github.com/Wajahat725/RISC-V-Architecture-Presentation) |
+| **Harmony-Search-Algorithm** | Python | ![Stars](https://img.shields.io/github/stars/Wajahat725/Harmony-Search-Algorithm?style=flat-square&color=00E5FF&labelColor=0a0a0a) [🔗 Repo](https://github.com/Wajahat725/Harmony-Search-Algorithm) 
 
 <br/>
 
