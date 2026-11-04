@@ -34,12 +34,21 @@
 | 01 IDEATE | 02 ENGINEER | 03 SHIP |
 |:---:|:---:|:---:|
 
-- 📱 **Mobile & Web Dev** - Flutter, Dart, React/HTML/Tailwind/JS
-- 🤖 **AI & Automation** - Python scripting, API integration, regex-based extraction
-- 🧑‍🏫 **Community Mentorship** - Teaching Assistant at RIPHAH International University Islamabad
+- 📱 **Mobile & Web Dev** — Flutter, Dart, HTML/CSS/JS
+- 🤖 **AI & Automation** — Python scripting, API integration, regex-based extraction
+- 🧑‍🏫 **Community Mentorship** — Teaching Assistant, DBMS @ Riphah University
 
 </td>
 <td width="40%" valign="top" align="center">
+
+### 02 / MORE THAN A STUDENT
+**1:1 PROJECT COLLABORATION**
+
+A clearer roadmap. A stronger engineer.
+
+🔭 **Currently:** Python Dev Intern @ CodeAlpha
+🌱 **Learning:** DevOps, Linux, Docker
+💬 **Ask me about:** Flutter, Python, Java, SQL
 
 </td>
 </tr>
@@ -55,13 +64,12 @@
 ```yaml
 name: Wajahat Ali Khan
 degree: BS Computer Science (Expected 2027)
-university: RIPHAH International University, Islamabad
+university: Riphah International University, Islamabad
 roles:
-  - Software Developer Intern at Research and Development Organization (Defence and Technology)
-  - Teaching Assistant at RIPHAH International University
-  - Python Development Intern at CodeAlpha
-  - Web Development Intern at Arch Technologies
-  - Python Development Intern at Pakistan Career Fair
+  - Teaching Assistant, Database Management Systems
+  - Python Development Intern @ CodeAlpha
+  - Web Development Intern @ Arch Technologies
+  - Python Development Intern @ Pakistan Career Fair
 languages: [English, Urdu, Khowar (Native)]
 fun_fact: "A perfect cover drive in cricket is as satisfying as zero compile errors."
 ```
@@ -98,7 +106,10 @@ fun_fact: "A perfect cover drive in cricket is as satisfying as zero compile err
 
 | Project | Stack | Links |
 |---|---|---|
-| **Harmony-Search-Algorithm** | Python | ![Stars](https://img.shields.io/github/stars/Wajahat725/Harmony-Search-Algorithm?style=flat-square&color=00E5FF&labelColor=0a0a0a) [🔗 Repo](https://github.com/Wajahat725/Harmony-Search-Algorithm) 
+| **Flutter-Platform-Channel-App** | Flutter · Dart | ![Stars](https://img.shields.io/github/stars/Wajahat725/Flutter-Platform-Channel-App?style=flat-square&color=00E5FF&labelColor=0a0a0a) [🔗 Repo](https://github.com/Wajahat725/Flutter-Platform-Channel-App) |
+| **Harmony-Search-Algorithm** | Python | ![Stars](https://img.shields.io/github/stars/Wajahat725/Harmony-Search-Algorithm?style=flat-square&color=00E5FF&labelColor=0a0a0a) [🔗 Repo](https://github.com/Wajahat725/Harmony-Search-Algorithm) |
+| **Polyembryony-PPT-Automation** | Python | ![Stars](https://img.shields.io/github/stars/Wajahat725/Polyembryony-PPT-Automation?style=flat-square&color=00E5FF&labelColor=0a0a0a) [🔗 Repo](https://github.com/Wajahat725/Polyembryony-PPT-Automation) |
+| **RISC-V-Architecture-Presentation** | — | ![Stars](https://img.shields.io/github/stars/Wajahat725/RISC-V-Architecture-Presentation?style=flat-square&color=00E5FF&labelColor=0a0a0a) [🔗 Repo](https://github.com/Wajahat725/RISC-V-Architecture-Presentation) |
 
 <br/>
 
@@ -125,15 +136,11 @@ Co-developed app delivering daily bite-sized lessons to help users learn consist
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=10&pause=100000&color=00E5FF&center=true&vCenter=true&width=400&lines=%3E_+certifications.list()" />
 </div>
 
-🎓 Endpoint Security
-
-🎓 Introduction to Cyber Security (Coursera)
-
-🎓 Operating Systems Basics (Coursera)
-
-🎓 Linux Basics (Great Learning)
-
-🎓 Discovering Entrepreneurship (Cisco Networking Academy)
+- 🎓 Operating Systems Basics — Coursera
+- 🎓 HTML/CSS/JavaScript Essentials — Coursera
+- 🎓 Python Essentials — Great Learning
+- 🎓 Linux Basics — Cisco Networking Academy
+- 🎓 Discovering Entrepreneurship — Cisco Networking Academy
 
 <br/>
 
