@@ -34,21 +34,12 @@
 | 01 IDEATE | 02 ENGINEER | 03 SHIP |
 |:---:|:---:|:---:|
 
-- 📱 **Mobile & Web Dev** — Flutter, Dart, HTML/CSS/JS
+- 📱 **Mobile & Web Dev** — Flutter, Dart, React/HTML/Tailwind/JS
 - 🤖 **AI & Automation** — Python scripting, API integration, regex-based extraction
-- 🧑‍🏫 **Community Mentorship** — Teaching Assistant, DBMS @ Riphah University
+- 🧑‍🏫 **Community Mentorship** — Teaching Assistant at RIPHAH International University Islamabad
 
 </td>
 <td width="40%" valign="top" align="center">
-
-### 02 / MORE THAN A STUDENT
-**1:1 PROJECT COLLABORATION**
-
-A clearer roadmap. A stronger engineer.
-
-🔭 **Currently:** Python Dev Intern @ CodeAlpha
-🌱 **Learning:** DevOps, Linux, Docker
-💬 **Ask me about:** Flutter, Python, Java, SQL
 
 </td>
 </tr>
@@ -64,12 +55,13 @@ A clearer roadmap. A stronger engineer.
 ```yaml
 name: Wajahat Ali Khan
 degree: BS Computer Science (Expected 2027)
-university: Riphah International University, Islamabad
+university: RIPHAH International University, Islamabad
 roles:
-  - Teaching Assistant, Database Management Systems
-  - Python Development Intern @ CodeAlpha
-  - Web Development Intern @ Arch Technologies
-  - Python Development Intern @ Pakistan Career Fair
+  - Software Developer Intern at Research and Development Organization (Defence and Technology)
+  - Teaching Assistant at RIPHAH International University
+  - Python Development Intern at CodeAlpha
+  - Web Development Intern at Arch Technologies
+  - Python Development Intern at Pakistan Career Fair
 languages: [English, Urdu, Khowar (Native)]
 fun_fact: "A perfect cover drive in cricket is as satisfying as zero compile errors."
 ```
@@ -104,21 +96,12 @@ fun_fact: "A perfect cover drive in cricket is as satisfying as zero compile err
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=10&pause=100000&color=FF0055&center=true&vCenter=true&width=400&lines=%3E_+.%2Fexecute_projects.sh" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/Wajahat725/Flutter-Platform-Channel-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wajahat725&repo=Flutter-Platform-Channel-App&cache_seconds=86400&theme=radical&bg_color=0a0a0a&hide_border=true&title_color=00E5FF&icon_color=FF0055&text_color=ffffff" width="48%" />
-  </a>
-  <a href="https://github.com/Wajahat725/Harmony-Search-Algorithm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wajahat725&repo=Harmony-Search-Algorithm&cache_seconds=86400&theme=radical&bg_color=0a0a0a&hide_border=true&title_color=00E5FF&icon_color=FF0055&text_color=ffffff" width="48%" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/Wajahat725/Polyembryony-PPT-Automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wajahat725&repo=Polyembryony-PPT-Automation&cache_seconds=86400&theme=radical&bg_color=0a0a0a&hide_border=true&title_color=00E5FF&icon_color=FF0055&text_color=ffffff" width="48%" />
-  </a>
-  <a href="https://github.com/Wajahat725/RISC-V-Architecture-Presentation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wajahat725&repo=RISC-V-Architecture-Presentation&cache_seconds=86400&theme=radical&bg_color=0a0a0a&hide_border=true&title_color=00E5FF&icon_color=FF0055&text_color=ffffff" width="48%" />
-  </a>
-</div>
+| Project | Stack | Links |
+|---|---|---|
+| **Flutter-Platform-Channel-App** | Flutter · Dart | ![Stars](https://img.shields.io/github/stars/Wajahat725/Flutter-Platform-Channel-App?style=flat-square&color=00E5FF&labelColor=0a0a0a) [🔗 Repo](https://github.com/Wajahat725/Flutter-Platform-Channel-App) |
+| **Harmony-Search-Algorithm** | Python | ![Stars](https://img.shields.io/github/stars/Wajahat725/Harmony-Search-Algorithm?style=flat-square&color=00E5FF&labelColor=0a0a0a) [🔗 Repo](https://github.com/Wajahat725/Harmony-Search-Algorithm) |
+| **Polyembryony-PPT-Automation** | Python | ![Stars](https://img.shields.io/github/stars/Wajahat725/Polyembryony-PPT-Automation?style=flat-square&color=00E5FF&labelColor=0a0a0a) [🔗 Repo](https://github.com/Wajahat725/Polyembryony-PPT-Automation) |
+| **RISC-V-Architecture-Presentation** | — | ![Stars](https://img.shields.io/github/stars/Wajahat725/RISC-V-Architecture-Presentation?style=flat-square&color=00E5FF&labelColor=0a0a0a) [🔗 Repo](https://github.com/Wajahat725/RISC-V-Architecture-Presentation) |
 
 <br/>
 
@@ -145,11 +128,15 @@ Co-developed app delivering daily bite-sized lessons to help users learn consist
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=10&pause=100000&color=00E5FF&center=true&vCenter=true&width=400&lines=%3E_+certifications.list()" />
 </div>
 
-- 🎓 Operating Systems Basics — Coursera
-- 🎓 HTML/CSS/JavaScript Essentials — Coursera
-- 🎓 Python Essentials — Great Learning
-- 🎓 Linux Basics — Cisco Networking Academy
-- 🎓 Discovering Entrepreneurship — Cisco Networking Academy
+🎓 Endpoint Security
+
+🎓 Introduction to Cyber Security (Coursera)
+
+🎓 Operating Systems Basics (Coursera)
+
+🎓 Linux Basics (Great Learning)
+
+🎓 Discovering Entrepreneurship (Cisco Networking Academy)
 
 <br/>
 
@@ -158,23 +145,7 @@ Co-developed app delivering daily bite-sized lessons to help users learn consist
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=10&pause=100000&color=FF0055&center=true&vCenter=true&width=400&lines=%3E_+git_status_--stats" />
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Wajahat725&cache_seconds=86400&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00E5FF&text_color=ffffff&icon_color=FF0055" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wajahat725&cache_seconds=86400&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00E5FF&text_color=ffffff" height="165" />
-
-  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wajahat725&theme=radical&background=0a0a0a&hide_border=true&stroke=00E5FF&ring=FF0055&fire=FF0055&currStreakNum=ffffff" width="70%" />
-
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wajahat725&custom_title=Contribution%20Graph&theme=react-dark&bg_color=0a0a0a&color=00E5FF&line=FF0055&point=ffffff&hide_border=true" width="90%" />
-</div>
-
-<br/>
-
-<!-- ====================== SNAKE CONTRIBUTION ANIMATION ====================== -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Wajahat725/Wajahat725/output/github-contribution-grid-snake-dark.svg" width="90%" />
-  <br/>
-  <sub>👆 Is animation ke liye apne profile repo mein <a href="https://github.com/Platane/snk">snk GitHub Action</a> setup karni hogi — steps neeche hain.</sub>
 </div>
 
 <br/>
@@ -193,7 +164,7 @@ Co-developed app delivering daily bite-sized lessons to help users learn consist
 <br/>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Wajahat725&label=PROFILE%20VIEWS&color=1&icon=5&pretty=true" />
+  <img src="https://komarev.com/ghpvc/?username=Wajahat725&label=PROFILE%20VIEWS&color=ff0055&style=for-the-badge" />
 </div>
 
 <div align="center">
